@@ -1,0 +1,85 @@
+Enter file contents here
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>중간고사</title>
+  
+  <style>
+    *{
+      
+    font-family: "malgun gothic", "applegothic","궁서";
+    }
+    ul{
+      text-align:left;
+      list-style-type: none;
+      padding: 0;
+      
+    }
+  </style>
+  
+    
+</head>
+<body>
+ 
+  <div>중간고사</div>
+  <h4>김양희</h4>
+  
+  <div>css란?</div>
+
+  <ul>
+    <li>css는 cascading stylesheet의 약자이며 html같은 
+      마크업 언어로 작성된 문서를 꾸미기 위해 작성합니다.
+      html 문서의 head 요소안에 style 요소를 넣고 css 코드를 적으면 해당문서를 다양하게
+      꾸밀 수 있습니다.</li>
+  </ul>
+  css대한 더 자세한 설명은 css문서를 참고하세요.
+  
+  <ul>
+    <li>html이란?
+    </li>
+    <li>html은 하이퍼텍스트 마크업언어 
+      (Hyepertext markup language)의 약자로,
+      웹 페이지 만들 때 사용되는 문서 형식입니다.</li>
+    
+  </ul>하이퍼텍스트(Hypertext)란 하이퍼링크 (Hyperlink)를 담고있는 문서를 뜻합니다.
+  하이퍼링크는 문서들이 서로 연결되어 있는 고리를 말합니다.
+  
+  <ul>
+    <li>인라인 요소 목록</li>
+    <li>다음은 HTML에서 자주 사용되는 요소들입니다.</li>
+    <li>a: 하이퍼링크(anchor)</li>
+    <li>img: 이미지(image)</li>
+    <li>span:일반도용의 인라인(span)</li>
+    <li>strong:중요(strong)</li>
+    <li>em:강조(Emphasis)</lu>
+  
+  </ul>
+  
+  <ul>
+    <li>중첩된 목록</li>
+    <li>목록 요소 안에 또다른 목록 요소를 중첩하여 사용할 수 있습니다.</li>
+    <li>1.홍길동</li>
+    <li>지각 없음</li>
+    <li>결석 없음</li>
+    <li>과제 만점</li>
+  </ul>
+  
+  <ul>
+    <li>2.이몽룡</li>
+    <li>지각 2회</li>
+    <li>결석 없음</li>
+    <li>과제 만점</li>
+  </ul>
+   <ul>
+     <li>블럭 요소 목록</li>
+    </ul>
+   <ul>
+     <li> 다음은 HTML 에서 자주 사용되는 요소들입니다.
+     <ul>
+    <li>1.p :단락
+     <li>2.h1 : 큰제목 
+     <li>3.ul
+     <li>4.ol
+     <li>5.table
+      
